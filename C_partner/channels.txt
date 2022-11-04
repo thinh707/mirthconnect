@@ -1,3 +1,3 @@
 this is the channel setting.
-setting 1
-setting 2
+setting 3456
+setting 1234
