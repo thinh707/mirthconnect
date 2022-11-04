@@ -1,1 +1,3 @@
 this is the channel setting.
+setting 1
+setting 2
